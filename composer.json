@@ -1,0 +1,14 @@
+{
+    "name": "mfahmialif/hijri",
+    "description": "Change date to hijri and vice versa",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mfahmialif",
+            "email": "mfahmialif@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
