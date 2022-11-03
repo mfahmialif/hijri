@@ -1,4 +1,7 @@
 <?php
+
+namespace Mfahmialif\Hijri;
+
 class HijriDate
 {
     public static function gregorianToHijri($GYear, $GMonth, $GDay)
