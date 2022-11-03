@@ -2,6 +2,10 @@
     "name": "mfahmialif/hijri",
     "description": "Change date to hijri and vice versa",
     "type": "library",
+    "require": {
+        "php": ">=7",
+        "nesbot/carbon": "^2.16|^1.22"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -14,6 +18,5 @@
             "email": "mfahmialif@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "stable"
 }
